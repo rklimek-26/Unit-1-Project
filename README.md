@@ -1,2 +1,2 @@
-# Unit 1 Project
+# Techdegree Unit 1 Project
  My first techdegree project
